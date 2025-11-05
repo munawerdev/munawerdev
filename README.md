@@ -11,8 +11,6 @@ Flutter developer passionate about building scalable mobile apps and automating 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Bloc](https://img.shields.io/badge/-Bloc-0175C2?style=flat-square&logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/-Provider-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Riverpod](https://img.shields.io/badge/-Riverpod-0175C2?style=flat-square&logo=flutter&logoColor=white)
 
 ## 🔥 Featured Projects
 
