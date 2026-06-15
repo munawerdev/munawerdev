@@ -12,7 +12,6 @@ I am a passionate Mobile Application Engineer specializing in building scalable,
 | **Frontend/Mobile** | Flutter, Dart, SwiftUI, Swift |
 | **Architecture & State** | Clean Architecture, TDD, BLoC / Cubit |
 | **DevOps & Automation** | GitHub Actions, Fastlane, Mason CLI |
-| **Local AI Integration** | Ollama (Gemma, Qwen) |
 
 ---
 
@@ -33,6 +32,7 @@ I am a passionate Mobile Application Engineer specializing in building scalable,
 
 Below you can find live-updated metrics tracking my active contributions, code distribution patterns, and primary development ecosystems across public workflows.
 
+<!-- Dynamic stats pulling directly from your github handle 'munawerdev' -->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=munawerdev&show_icons=true&theme=tokyonight&count_private=true" alt="Munawer's GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munawerdev&layout=compact&theme=tokyonight" alt="Top Languages Used" height="180" />
@@ -49,10 +49,10 @@ Below you can find live-updated metrics tracking my active contributions, code d
 I am always open to collaborating on scalable architecture projects, automated pipelines, or building open-source initiatives. Let's design something incredible!
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/munawer-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:munawer.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
