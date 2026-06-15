@@ -1,33 +1,58 @@
-# Hi, I'm Munawer 👋
+# Hi, I'm Munawer Ali 👋
+### 🚀 Flutter Developer & DevOps Enthusiast
 
-Flutter developer passionate about building scalable mobile apps and automating workflows. Creator of [mason_cli](https://github.com/munawerdev/mason_cli), open source contributor, and advocate of TDD and clean architecture.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munawer-dev/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/munaweraie)
-
-## 🛠️ Tech Stack
-
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Bloc](https://img.shields.io/badge/-Bloc-0175C2?style=flat-square&logo=flutter&logoColor=white)
-
-## 🔥 Featured Projects
-
-### [mason_cli](https://github.com/munawerdev/mason_cli)
-CLI tool to automate clean architecture & TDD in Flutter - reduces setup time by 70%
-
-### [pagination_helper](https://github.com/munawerdev/pagination_helper)
-Lightweight, state-management-agnostic Flutter package for implementing pagination with minimal boilerplate
-
-## 📊 GitHub Stats
-
-![Munawer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=munawerdev&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-## 📫 Let's Connect
-
-Open to collaborations and interesting projects. Let's build something amazing together!
+I am a passionate Mobile Application Engineer specializing in building scalable, high-performance apps using **Clean Architecture**, **TDD (Test-Driven Development)**, and predictable state management. I love optimizing development workflows and creating tools that help developers build faster and cleaner.
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=munawerdev&color=brightgreen&style=flat-square)
+## 🛠️ My Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend/Mobile** | Flutter, Dart, SwiftUI, Swift |
+| **Architecture & State** | Clean Architecture, TDD, BLoC / Cubit |
+| **DevOps & Automation** | GitHub Actions, Fastlane, Mason CLI |
+| **Local AI Integration** | Ollama (Gemma, Qwen) |
+
+---
+
+## 🔥 Featured Projects
+
+### 🧱 [mason_cli](https://github.com/munawerdev/mason_cli)
+*A custom CLI template architecture tool designed to automate TDD and feature scaffolding in Flutter.*
+* **Impact:** Reduces architectural bootstrap configuration setup time by **70%**.
+* **Setup:** Quickly generate features pre-bundled with standard Cubit/Bloc directory states.
+
+### 🔢 [pagination_helper](https://github.com/munawerdev/pagination_helper)
+*A lightweight, state-management-agnostic utility package built for Dart & Flutter.*
+* **Core Benefit:** Implements infinite scrolling and pagination structures cleanly with minimal boilerplate.
+
+---
+
+## 📊 GitHub Analytics & Top Languages
+
+Below you can find live-updated metrics tracking my active contributions, code distribution patterns, and primary development ecosystems across public workflows.
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=munawerdev&show_icons=true&theme=tokyonight&count_private=true" alt="Munawer's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munawerdev&layout=compact&theme=tokyonight" alt="Top Languages Used" height="180" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=munawerdev&theme=tokyonight" alt="GitHub Streak" height="180" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+I am always open to collaborating on scalable architecture projects, automated pipelines, or building open-source initiatives. Let's design something incredible!
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
