@@ -1,4 +1,4 @@
-# Hi, I'm Munawer Ali 👋
+# Hi, I'm Munawer 👋
 ### 🚀 Flutter Developer & DevOps Enthusiast
 
 I am a passionate Mobile Application Engineer specializing in building scalable, high-performance apps using **Clean Architecture**, **TDD (Test-Driven Development)**, and predictable state management. I love optimizing development workflows and creating tools that help developers build faster and cleaner.
