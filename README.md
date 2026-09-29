@@ -53,14 +53,11 @@ A lightweight, state-management-agnostic pagination utility for Dart & Flutter.
 
 ## 📊 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=munawerdev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Munawer's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munawerdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-</p>
+[![Munawer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=munawerdev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/munawerdev)
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=munawerdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=munawerdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/munawerdev)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=munawerdev&theme=tokyonight&hide_border=true)](https://github.com/munawerdev)
 
 ---
 
