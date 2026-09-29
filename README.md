@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/munawer-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/munawerdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://gitlab.com/munawerdev"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
-  <a href="https://pub.dev/publishers/munawer.dev/packages"><img src="https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev"/></a>
+  <a href="https://pub.dev/packages/pagination_helper"><img src="https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev"/></a>
   <a href="mailto:munawer.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -50,20 +50,6 @@ A lightweight, state-management-agnostic pagination utility for Dart & Flutter.
 - Offset, page, and cursor-based pagination for lists and grids
 - Works with Bloc, Provider, Riverpod, GetX, and plain `setState`
 - Infinite scrolling with minimal boilerplate · Android & iOS
-
----
-
-## 📱 Published Applications
-
-| App | What it does | Platforms |
-| :--- | :--- | :--- |
-| **baahy** | E-commerce marketplace for Libya's largest shopping platform — 15,000+ products | Android & iOS · 100K+ downloads |
-| **Ujra** | Ride-hailing with real-time driver tracking and in-app booking | Android & iOS · 10K+ downloads |
-| **Fleet** | Fleet management connecting drivers and managers in real time | Android & iOS |
-| **Cotch Citi** | Social events platform for hosting and discovering local gatherings | Android & iOS |
-| **Karen Ruimy** | Spiritual coaching app with oracle readings, journaling, and an AI companion | Android & iOS |
-
----
 
 ## 📊 GitHub Analytics
 
